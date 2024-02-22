@@ -157,7 +157,7 @@ Se admiten los {{JSxRef("Funciones/Parametros_por_defecto", "parámetros predete
 ([a, b] = [10, 20]) => a + b; // el resultado es 30
 ({ a, b } = { a: 10, b: 20 }) => a + b; // resultado es 30
 ```
-
+#
 ## Descripción
 
 Consulta también ["ES6 en profundidad: funciones flecha" en hacks.mozilla.org](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/).
